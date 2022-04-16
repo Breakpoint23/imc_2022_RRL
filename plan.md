@@ -18,6 +18,7 @@ But what we need is a **machine learning pipeline** that can use two images, cam
 2. Along with that a csv file containg id of the image and camera instrinsics and extrinsics for that image
 3. We also have another csv file containing pair of image ids and their covisibility number (0-1) and the target column (fundamental matrix) (It's suggested to use pairs with covisibility>0.1)
 
+Based on their suggested condition (Cov>0.1) we have at least 11,82,415 pairs of images to train on, otherwise it's 14,16,814
 ## Plan
 1. First thing to do would be to indentify keypoints in the image, we can use different algorithms for this but **sift** would be the obvious choice.
 2. then again we will need to somehow incorporate camera intrisics and extrinsics with coordinates of the keypoints
