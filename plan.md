@@ -23,3 +23,5 @@ Based on their suggested condition (Cov>0.1) we have at least 11,82,415 pairs of
 1. First thing to do would be to indentify keypoints in the image, we can use different algorithms for this but **sift** would be the obvious choice.
 2. then again we will need to somehow incorporate camera intrisics and extrinsics with coordinates of the keypoints
 3. Have a regression algorithm for finding fundamental matrix?
+
+[This is the link to a notebook illustrting how it's typically approached](https://kaggle.com/code/eduardtrulls/imc2022-training-data?scriptVersionld=92062607)
