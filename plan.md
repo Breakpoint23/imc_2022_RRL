@@ -25,3 +25,7 @@ Based on their suggested condition (Cov>0.1) we have at least 11,82,415 pairs of
 3. Have a regression algorithm for finding fundamental matrix?
 
 [This is the link to a notebook illustrting how it's typically approached](https://kaggle.com/code/eduardtrulls/imc2022-training-data?scriptVersionld=92062607)
+
+## Literature Review
+
+1. Found [this](https://towardsdatascience.com/image-feature-extraction-traditional-and-deep-learning-techniques-ccc059195d04) blog suggesting different deep learning method compared to traditional sift
