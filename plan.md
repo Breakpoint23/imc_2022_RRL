@@ -24,4 +24,4 @@ Based on their suggested condition (Cov>0.1) we have at least 11,82,415 pairs of
 2. then again we will need to somehow incorporate camera intrisics and extrinsics with coordinates of the keypoints
 3. Have a regression algorithm for finding fundamental matrix?
 
-[This is the link to a notebook illustrting how it's typically approached] (https://kaggle.com/code/eduardtrulls/imc2022-training-data?scriptVersionld=92062607)
+[This is the link to a notebook illustrting how it's typically approached](https://kaggle.com/code/eduardtrulls/imc2022-training-data?scriptVersionld=92062607)
