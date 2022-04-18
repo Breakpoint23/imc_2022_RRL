@@ -29,3 +29,6 @@ Based on their suggested condition (Cov>0.1) we have at least 11,82,415 pairs of
 ## Literature Review
 
 1. Found [this](https://towardsdatascience.com/image-feature-extraction-traditional-and-deep-learning-techniques-ccc059195d04) blog suggesting different deep learning method compared to traditional sift
+
+## example
+2. Found the Implentation of feature selection and extraction which resulted in 72% accuracy. Link to the code [here](https://www.kaggle.com/code/prakyathkantharaju/imc-2022-kornia-loftr-from-0-533-to-0-721/edit)
