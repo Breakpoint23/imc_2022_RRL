@@ -31,7 +31,7 @@ Based on their suggested condition (Cov>0.1) we have at least 11,82,415 pairs of
 1. Found [this](https://towardsdatascience.com/image-feature-extraction-traditional-and-deep-learning-techniques-ccc059195d04) blog suggesting different deep learning method compared to traditional sift
 2. [This](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Poursaeed_Deep_Fundamental_Matrix_Estimation_without_Correspondences_ECCVW_2018_paper.pdf) paper managed to do the same thing we want to do with deep learning. 
 3. [This](https://kornia.readthedocs.io/en/latest/feature.html) is an alternative to the traditional swift, ORB features. Might be better for our applications.
-
+4. [this](https://arxiv.org/pdf/1712.07629.pdf) paper inroduces feature extractor and descriptor used for feature matching.
 
 
 ## example of solving the feature extraction.
