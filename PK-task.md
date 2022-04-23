@@ -1,0 +1,4 @@
+- [x] Create the depth segmentation of images.
+- [x] Use the Kornia to extract features.
+- [x] Compare the fundamental matrix comparision between old and new images.
+- [ ] Need to remove the unwanted features using the segmentation and object detection.
